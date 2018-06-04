@@ -1,0 +1,19 @@
+#container {
+	display: flex;
+	justify-content: center;
+	margin-top: 75px;
+}
+
+.button {
+	border: 1px black solid;
+	text-align: center;
+}
+
+.button:hover {
+	background-color: #eee;
+}
+
+td {
+	height: 70px;
+	width: 70px;
+}
