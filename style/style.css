@@ -1,0 +1,25 @@
+#container {
+	display: flex;
+	justify-content: center;
+	margin-top: 75px;
+}
+
+.button {
+	border: 1px black solid;
+	text-align: center;
+	margin: 5px;
+	padding: 0;
+}
+
+.button:hover {
+	background-color: #eee;
+}
+
+.container-table {
+	border-collapse: collapse;
+}
+
+td {
+	height: 70px;
+	width: 70px;
+}
